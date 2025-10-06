@@ -9,7 +9,6 @@ Building intelligent systems that connect healthcare, imaging, and large-scale c
 ## Technical Focus
 - **Medical Imaging:** Segmentation, Classification, and GAN-based Image Enhancement  
 - **Deep Learning:** Transformers, CNNs, Autoencoders, Generative Models  
-<!-- - **Cloud & Data:** AWS Lambda, S3, DocumentDB, Spark Structured Streaming   -->
 - **Frameworks:** PyTorch, TensorFlow, OpenCV, scikit-learn, Databricks  
 
 ---
@@ -54,11 +53,11 @@ Building intelligent systems that connect healthcare, imaging, and large-scale c
 - 🎓 **Graduate Research** in Medical AI at University of Rochester
 <!-- - 📊 **97-98% Accuracy** achieved on medical imaging classification -->
 -  **Cross-Domain Generalization** research in medical AI
--  **Cloud Architecture** expertise in AWS serverless systems -->
+-  **Cloud Architecture** expertise in AWS serverless systems
 
 ---
 
-## 🌐 Connect with Me  
+## Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/kushal-g-7b9526224">
     <img src="https://img.shields.io/badge/LinkedIn-Kushal_Gangaraju-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
