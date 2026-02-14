@@ -7,7 +7,7 @@ I design and deploy scalable machine learning systems across medical imaging, ge
 <p align="center">
   <a href="mailto:kgangara@ur.rochester.edu">kgangara@ur.rochester.edu</a> ·
   <a href="https://www.linkedin.com/in/kushal-g-7b9526224">LinkedIn</a> ·
-  <a href="https://kushalgangaraju.com">Website</a> ·
+  <a href="https://kushalgangaraju.com">Website</a>
 </p>
 
 ## Research & Engineering Focus
