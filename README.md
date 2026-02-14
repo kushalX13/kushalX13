@@ -4,6 +4,12 @@
 
 I design and deploy scalable machine learning systems across medical imaging, generative modeling, and cloud-native data pipelines. My work spans research-grade modeling, GPU-accelerated training, and production-ready architectures.
 
+<p align="center">
+  <a href="https://kushalgangaraju.com">Website</a> ·
+  <a href="https://github.com/kushalX13">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/kushal-g-7b9526224">LinkedIn</a>
+</p>
+
 ---
 
 ## Research & Engineering Focus
