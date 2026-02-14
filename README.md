@@ -5,9 +5,10 @@
 I design and deploy scalable machine learning systems across medical imaging, generative modeling, and cloud-native data pipelines. My work spans research-grade modeling, GPU-accelerated training, and production-ready architectures.
 
 <p align="center">
+  <a href="mailto:kgangara@ur.rochester.edu">Email</a> ·
+  <a href="https://www.linkedin.com/in/kushal-g-7b9526224">LinkedIn</a> ·
   <a href="https://kushalgangaraju.com">Website</a> ·
-  <a href="https://github.com/kushalX13">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/kushal-g-7b9526224">LinkedIn</a>
+  <a href="https://github.com/kushalX13">GitHub</a>
 </p>
 
 ---
@@ -74,20 +75,6 @@ Spark · MLflow · Delta Lake · scikit-learn
 ## Current Interests
 
 Scalable generative modeling, retrieval-augmented systems, and quantitative machine learning applications.
-
----
-
-## Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/kushal-g-7b9526224">
-    <img src="https://img.shields.io/badge/LinkedIn-Kushal_Gangaraju-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:kgangara@ur.rochester.edu">
-    <img src="https://img.shields.io/badge/Email-kgangara@ur.rochester.edu-red?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
-
- **Rochester, NY** | **University of Rochester** |  **Open to Opportunities**
 
 ---
 
