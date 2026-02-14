@@ -1,15 +1,17 @@
-#  Hi, I'm Kushal Gangaraju  
+# Kushal Varma Gangaraju
 
-**Master's Student in Computer Science @ University of Rochester**  
-Passionate about **AI, Deep Learning, Medical Imaging, and Cloud Data Pipelines**  
-Building intelligent systems that connect healthcare, imaging, and large-scale computation.  
+**Master's Student in Computer Science, University of Rochester**
+
+I design and deploy scalable machine learning systems across medical imaging, generative modeling, and cloud-native data pipelines. My work spans research-grade modeling, GPU-accelerated training, and production-ready architectures.
 
 ---
 
-## Technical Focus
-- **Medical Imaging:** Segmentation, Classification, and GAN-based Image Enhancement  
-- **Deep Learning:** Transformers, CNNs, Autoencoders, Generative Models  
-- **Frameworks:** PyTorch, TensorFlow, OpenCV, scikit-learn, Databricks  
+## Research & Engineering Focus
+
+- Medical Image Segmentation and Classification
+- Generative Modeling
+- Transformer-based Architectures and Representation Learning
+- Scalable ML Pipelines and Cloud Infrastructure
 
 ---
 
@@ -35,9 +37,15 @@ Building intelligent systems that connect healthcare, imaging, and large-scale c
 ---
 
 ## Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,docker,git,linux,opencv,sqlite,vscode,jupyter,github" />
-</p>
+
+**Core Machine Learning**  
+PyTorch · TensorFlow · Transformers · Diffusion Models · CNNs
+
+**Systems & Infrastructure**  
+AWS · Docker · Linux · GitHub Actions · Databricks
+
+**Data & Streaming**  
+Spark · MLflow · Delta Lake · scikit-learn
 
 ---
 
@@ -54,6 +62,12 @@ Building intelligent systems that connect healthcare, imaging, and large-scale c
 <!-- - 📊 **97-98% Accuracy** achieved on medical imaging classification -->
 -  **Cross-Domain Generalization** research in medical AI
 -  **Cloud Architecture** expertise in AWS serverless systems
+
+---
+
+## Current Interests
+
+Scalable generative modeling, retrieval-augmented systems, and quantitative machine learning applications.
 
 ---
 
