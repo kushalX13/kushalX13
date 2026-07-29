@@ -54,6 +54,14 @@ I design and deploy scalable machine learning systems across medical imaging, ge
 
 [gangarajukushalvarma@gmail.com](mailto:gangarajukushalvarma@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kushal-g-7b9526224) · [Website](https://kushalgangaraju.com)
 
+## Research & Engineering Focus
+
+- Medical Image Segmentation and Classification
+- Generative Modeling
+- LLM's and RAG
+- Transformer-based Architectures and Representation Learning
+- Scalable ML Pipelines and Cloud Infrastructure
+
 </td>
 </tr>
 </table>

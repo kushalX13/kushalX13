@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(python3 -c \"import PIL; print\\(PIL.__version__\\)\")",
+      "Bash(python3 -m pip install --quiet --disable-pip-version-check Pillow)",
+      "Bash(python3 -m venv /private/tmp/claude-501/-Users-kushal-Career-Git-Related-Git-profile-kushalX13/da67371d-5904-4deb-9784-8961eb82597a/scratchpad/venv)",
+      "Bash(/private/tmp/claude-501/-Users-kushal-Career-Git-Related-Git-profile-kushalX13/da67371d-5904-4deb-9784-8961eb82597a/scratchpad/venv/bin/python3 /private/tmp/claude-501/-Users-kushal-Career-Git-Related-Git-profile-kushalX13/da67371d-5904-4deb-9784-8961eb82597a/scratchpad/img2ascii.py '/Users/kushal/Career/Git Related/Git profile/kushalX13/assets/ascii-magic-2.png' 76)",
+      "Bash(awk '{ print length, NR }' /private/tmp/claude-501/-Users-kushal-Career-Git-Related-Git-profile-kushalX13/da67371d-5904-4deb-9784-8961eb82597a/scratchpad/user_ascii.txt)",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}
