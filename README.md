@@ -68,13 +68,6 @@ I design and deploy scalable machine learning systems across medical imaging, ge
 
 ---
 
-## Research & Engineering Focus
-
-- Medical Image Segmentation and Classification
-- Generative Modeling
-- LLM's and RAG
-- Transformer-based Architectures and Representation Learning
-- Scalable ML Pipelines and Cloud Infrastructure
 
 ## Tech Stack
 
