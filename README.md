@@ -1,16 +1,21 @@
-<h1 align="center">Kushal Varma Gangaraju</h1>
+<table>
+<tr>
+<td width="240" valign="top">
+  <img src="assets/profile-ascii.jpg" width="220"/>
+</td>
+<td valign="top">
 
-<p align="center"><b>Master's Student in Computer Science, University of Rochester</b></p>
+# Kushal Varma Gangaraju
 
-<p align="center">
+**Master's Student in Computer Science, University of Rochester**
+
 I design and deploy scalable machine learning systems across medical imaging, generative modeling, and cloud-native data pipelines. My work spans research-grade modeling, GPU-accelerated training, and production-ready architectures.
-</p>
 
-<p align="center">
-  <a href="mailto:gangarajukushalvarma@gmail.com">gangarajukushalvarma@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/kushal-g-7b9526224">LinkedIn</a> ·
-  <a href="https://kushalgangaraju.com">Website</a>
-</p>
+[gangarajukushalvarma@gmail.com](mailto:gangarajukushalvarma@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kushal-g-7b9526224) · [Website](https://kushalgangaraju.com)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -18,7 +23,7 @@ I design and deploy scalable machine learning systems across medical imaging, ge
 
 - Medical Image Segmentation and Classification
 - Generative Modeling
-- Large Language Models and Retrieval-Augmented Generation
+- LLM's and RAG
 - Transformer-based Architectures and Representation Learning
 - Scalable ML Pipelines and Cloud Infrastructure
 
